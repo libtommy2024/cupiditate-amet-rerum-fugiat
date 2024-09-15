@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/cupiditate-amet-rerum-fugiat",
-  "version": "6.18.122",
+  "version": "6.18.123",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -164,5 +164,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/cupiditate-amet-rerum-fugiat/issues"
   },
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.5.0"
 }
